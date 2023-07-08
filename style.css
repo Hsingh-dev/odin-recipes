@@ -1,0 +1,11 @@
+
+img {
+  width: 400px;
+  height: auto;
+}
+
+body {
+  background-color: rgb(187, 186, 188);
+  border-style:solid;
+  font-family: Helvetica, "Times New Roman";
+}
